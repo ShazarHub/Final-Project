@@ -5,7 +5,7 @@
 #### Selected Topic: Auto Insurance Claims
 #### Why?: From, https://insurancefraud.org/fraud-stats/, "Insurance fraud steals at least $80 billion every year from American consumers. (Coalition Against Insurance Fraud is working to update this figure in 2022)."
 #### Source Data: From Kaggle.com, https://www.kaggle.com/buntyshah/auto-insurance-claims-data
-#### Google Slides: https://docs.google.com/presentation/d/1y_k0o3JL7F41ck7JR_ZUZAkdtDhq-rUcgMgWNbOPW1Q/edit#slide=id.p 3/22/2022
+#### Google Slides: https://docs.google.com/presentation/d/1y_k0o3JL7F41ck7JR_ZUZAkdtDhq-rUcgMgWNbOPW1Q/edit?usp=sharing 3/22/2022
 #### Questions to Answer: 
 
 ##### Exploratory Data Analysis Questions (Pandas, Dashboards, i.e. Tableau/PowerPoint)
@@ -79,7 +79,7 @@ Note: The Primary Key of our database was constrained to one column "policy_numb
 # Dashboard
 
 #### Team members must present a Storyboard on Google Slide(s) 
-(https://docs.google.com/presentation/d/1y_k0o3JL7F41ck7JR_ZUZAkdtDhq-rUcgMgWNbOPW1Q/edit#slide=id.p)
+https://docs.google.com/presentation/d/1y_k0o3JL7F41ck7JR_ZUZAkdtDhq-rUcgMgWNbOPW1Q/edit?usp=sharing
 
 Tools used to create final dashboard:
   - HTML
